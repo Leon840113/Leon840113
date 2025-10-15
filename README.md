@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon840113&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon840113&theme=ambient_gradient&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
