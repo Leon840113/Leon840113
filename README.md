@@ -13,4 +13,4 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=BB9AF7&background=00000000&width=450&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+%26+Building!;Feel+free+to+look+around!&multiline=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=100&color=C860F7&background=FF6F2B00&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Code.+Create.+Innovate.;Web+Developer+%26+Tech+Enthusiast;Turning+ideas+into+reality)](https://git.io/typing-svg)
